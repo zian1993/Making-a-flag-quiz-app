@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Quiz.rand_generator(Int) -&gt; ():Quiz.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "randnum">
+            </PersistentString>
+            <PersistentString
+               value = "randarray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
